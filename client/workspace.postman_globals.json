@@ -1,0 +1,45 @@
+{
+	"id": "fc4ab117-962c-475a-8692-435dd512b18b",
+	"values": [
+		{
+			"key": "account_id",
+			"value": "c57b71c3-8ae3-4ed9-bfdb-0366eb06dab5",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "client_id",
+			"value": "e1307b4bd30adef1abdaaf296e8104ad",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "secret_id",
+			"value": "cfe28d41-3fbe-4b1a-bfc1-e4cf7b05b584",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "merchant_id",
+			"value": "3c850c1c-0bae-44da-909f-9ae7d5acadd8",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "eyJhbGciOiJSUzI1NiIsInR5cCIgOiAiSldUIiwia2lkIiA6ICJxSXJSLUZkdm5vcms2RktjcV9nNDFUa3p4VC16dk8welRyUHFUM0tMem9zIn0.eyJleHAiOjE3Mjg0MTIzODQsImlhdCI6MTcyODQwNTE4NCwianRpIjoiZmNmNWI3ZDctMGI5Yy00NTQwLWI1YjQtZTMwY2VhMjUxZGU5IiwiaXNzIjoiaHR0cHM6Ly9pZGVudGl0eS5tZXJjaGFudC1jZW50ZXIuemFsYW4uZG8vYXV0aC9yZWFsbXMvbWVyY2hhbnQtcGxhdGZvcm0iLCJhdWQiOlsiem1zIiwiemZzIiwicHJvZmlsZSIsInpycyIsIm9yZGVycyIsInpzcyIsImFydGljbGVzIiwicHJvZHVjdHMiXSwic3ViIjoiY2ZhNDEwNzUtNGU0Mi00ZjQ4LTk5YmUtYjYyNzJmOGMxYzgyIiwidHlwIjoiQmVhcmVyIiwiYXpwIjoiZTEzMDdiNGJkMzBhZGVmMWFiZGFhZjI5NmU4MTA0YWQiLCJzZXNzaW9uX3N0YXRlIjoiYjliMTU5ZWYtYjJhMS00NTg1LWI3YTEtMjY4MDlkNGFhNzM4IiwiYWNyIjoiMSIsInJlc291cmNlX2FjY2VzcyI6eyJ6bXMiOnsicm9sZXMiOlsicGVyZm9ybWFuY2UtY2FtcGFpZ25zL3JlYWQiLCJwZXJmb3JtYW5jZS1jYW1wYWlnbnMvd3JpdGUiXX0sInpmcyI6eyJyb2xlcyI6WyJzdG9jay1sb2NhdGlvbi9yZWFkIiwic2hpcHBpbmctbm90aWNlL3dyaXRlIiwidG91cnMvcmVhZCIsInNoaXBwaW5nLW5vdGljZS9yZWFkIiwibXVsdGljaGFubmVsLWZ1bGZpbGxtZW50LWFydGljbGUvd3JpdGUiLCJtdWx0aWNoYW5uZWwtb3JkZXJzL3JlYWQiLCJyZWNlaXZlZC1pdGVtL3JlYWQiLCJyZXR1cm5lZC1pdGVtL3JlYWQiLCJtdWx0aWNoYW5uZWwtcmV0dXJuLWxhYmVsL3dyaXRlIiwiaWNtLXJlcG9ydHMvcmVhZCIsIml0ZW0tcXVhbnRpdGllcy9yZWFkIiwibXVsdGljaGFubmVsLWZ1bGZpbGxtZW50LWFydGljbGUvcmVhZCJdfSwicHJvZmlsZSI6eyJyb2xlcyI6WyJsb2dpc3RpYy1jZW50ZXJzL3JlYWQiLCJzYWxlcy1jaGFubmVscy9yZWFkIl19LCJ6cnMiOnsicm9sZXMiOlsicmV0dXJuZWQtaXRlbXMvcmVhZCJdfSwib3JkZXJzIjp7InJvbGVzIjpbInJlYWQiLCJ3cml0ZSJdfSwienNzIjp7InJvbGVzIjpbInNoaXBwaW5nLWRvY3VtZW50L3JlYWQiXX0sImFydGljbGVzIjp7InJvbGVzIjpbImVhbi9yZWFkIiwic3RvY2svd3JpdGUiLCJwcmljZS93cml0ZSJdfSwicHJvZHVjdHMiOnsicm9sZXMiOlsiZWFuL3JlYWQiLCJzdG9jay93cml0ZSIsInJlYWQiLCJibG9ja2Vycy9yZWFkIiwicHJpY2UvcmVhZCIsImJsb2NrZXJzL3dyaXRlIiwicHJpY2Uvd3JpdGUiLCJhdHRyaWJ1dGVzL3JlYWQiLCJ3cml0ZSJdfX0sInNjb3BlIjoicHJvZmlsZSBlbWFpbCBhY2Nlc3NfdG9rZW5fb25seSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiY2xpZW50SWQiOiJlMTMwN2I0YmQzMGFkZWYxYWJkYWFmMjk2ZTgxMDRhZCIsImFjY291bnRfaWQiOiJjNTdiNzFjMy04YWUzLTRlZDktYmZkYi0wMzY2ZWIwNmRhYjUiLCJicGlkcyI6IjNjODUwYzFjLTBiYWUtNDRkYS05MDlmLTlhZTdkNWFjYWRkOCIsInRlY2hfYWNjb3VudF9uYW1lIjoiYXJzb3VyY2UgIiwibWVyY2hhbnRfYWNjb3VudF9pZCI6IjRiOTQ2MDk0LTQ0ZjYtNDk2OS05N2I2LWJiOWU4Y2E0YmI4OCIsIm1lcmNoYW50X2FjY291bnRfbmFtZSI6Im51ZmZlcnRvbiBhYiIsInByZWZlcnJlZF91c2VybmFtZSI6InNlcnZpY2UtYWNjb3VudC1lMTMwN2I0YmQzMGFkZWYxYWJkYWFmMjk2ZTgxMDRhZCJ9.YyfUrqpqRBMNiNlQaUJFpfxftVx6MraLywmxoD4OE5qQB9MQyaox0z9eVsodh9Ck-ANF-CXnYLgqf15gZDB4DU60rA9bGvzWxMCWhOP1wWXfDTt4VxBROxGS9HpD59PpYIRaDb2wDvB0r4DKVCEOCENSDBkwkShkrnseCklEzgfsB-qkq_7VH_UT4aeJHXgnA6fBmfxhr30AA_3l7za4uOZRF56FKFPRfhNXoSFm7MdBGGjmtR0-qpu4JUczF-h9z2vIaQnyndOBJ-LWXZfLyWl-SiItSSKtbOWpa1ndQ1cFZ3ZpjLVnxtaroM2pc1-ulGG6DXmugmZZqgk-3gpc_g",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "https://api.merchants.zalando.com",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-10-08T18:34:56.192Z",
+	"_postman_exported_using": "Postman/11.15.0"
+}

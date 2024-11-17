@@ -1,0 +1,1397 @@
+{
+  "items": [
+    {
+      "name": {
+        "de": "Nachthemden",
+        "en": "Nightdress"
+      },
+      "label": "nightdress",
+      "tiers": {
+        "model": {
+          "optional_types": ["assortment_type"],
+          "mandatory_types": [
+            "name",
+            "brand_code",
+            "size_group",
+            "target_age_groups",
+            "target_genders"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "assortment_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "assortment_type_7314",
+                "assortment_type_7311",
+                "assortment_type_7313",
+                "assortment_type_7841",
+                "assortment_type_7312"
+              ]
+            }
+          ]
+        },
+        "config": {
+          "optional_types": [
+            "size_fits",
+            "washing_instructions",
+            "neckline",
+            "clothing_length",
+            "sleeve_length_option",
+            "occasion",
+            "pattern",
+            "shirt_collar_type",
+            "color_code.secondary",
+            "color_code.tertiary",
+            "number_of_articles_in_multipack",
+            "certificate",
+            "shape",
+            "fit_taxonomy",
+            "condition",
+            "pockets"
+          ],
+          "mandatory_types": [
+            "season_code",
+            "color_code.primary",
+            "description",
+            "material.upper_material_clothing",
+            "media",
+            "supplier_color"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "pattern",
+                "version": "1.0.0"
+              },
+              "values": [
+                "pattern_4316",
+                "pattern_7276",
+                "pattern_4315",
+                "pattern_7281",
+                "pattern_7275",
+                "pattern_7280",
+                "pattern_7279",
+                "pattern_7277",
+                "pattern_4314",
+                "pattern_7282",
+                "pattern_4313",
+                "pattern_4311",
+                "pattern_7278",
+                "pattern_5322",
+                "pattern_4310",
+                "pattern_4312"
+              ]
+            },
+            {
+              "type": {
+                "label": "condition",
+                "version": "1"
+              },
+              "values": ["condition_8531", "condition_8532"]
+            },
+            {
+              "type": {
+                "label": "pockets",
+                "version": "1"
+              },
+              "values": ["pockets_15", "pockets_14", "pockets_13"]
+            },
+            {
+              "type": {
+                "label": "shape",
+                "version": "1"
+              },
+              "values": ["shape_8513", "shape_8511", "shape_8510", "shape_8509"]
+            },
+            {
+              "type": {
+                "label": "clothing_length",
+                "version": "1.0.0"
+              },
+              "values": [
+                "clothing_length_153",
+                "clothing_length_7270",
+                "clothing_length_7272",
+                "clothing_length_152",
+                "clothing_length_151",
+                "clothing_length_7274",
+                "clothing_length_7271",
+                "clothing_length_7273",
+                "clothing_length_7267"
+              ]
+            },
+            {
+              "type": {
+                "label": "sleeve_length_option",
+                "version": "1.0.0"
+              },
+              "values": [
+                "sleeve_length_option_4270",
+                "sleeve_length_option_4269",
+                "sleeve_length_option_4265",
+                "sleeve_length_option_4267",
+                "sleeve_length_option_7266",
+                "sleeve_length_option_4268",
+                "sleeve_length_option_4266",
+                "sleeve_length_option_7265",
+                "sleeve_length_option_4271"
+              ]
+            },
+            {
+              "type": {
+                "label": "fit_taxonomy",
+                "version": "1"
+              },
+              "values": [
+                "fit_taxonomy_8521",
+                "fit_taxonomy_8519",
+                "fit_taxonomy_8522",
+                "fit_taxonomy_8518",
+                "fit_taxonomy_8520"
+              ]
+            },
+            {
+              "type": {
+                "label": "shirt_collar_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "shirt_collar_type_7301",
+                "shirt_collar_type_4304",
+                "shirt_collar_type_7305",
+                "shirt_collar_type_7306",
+                "shirt_collar_type_4301",
+                "shirt_collar_type_4299",
+                "shirt_collar_type_4332",
+                "shirt_collar_type_7310",
+                "shirt_collar_type_7297",
+                "shirt_collar_type_4298",
+                "shirt_collar_type_7304",
+                "shirt_collar_type_7302",
+                "shirt_collar_type_4333",
+                "shirt_collar_type_7309",
+                "shirt_collar_type_4297",
+                "shirt_collar_type_4300"
+              ]
+            },
+            {
+              "type": {
+                "label": "size_fits",
+                "version": "1.0.0"
+              },
+              "values": ["size_fits_150", "size_fits_149"]
+            },
+            {
+              "type": {
+                "label": "occasion",
+                "version": "1.0.0"
+              },
+              "values": [
+                "occasion_7869",
+                "occasion_7229",
+                "occasion_7227",
+                "occasion_7232"
+              ]
+            },
+            {
+              "type": {
+                "label": "neckline",
+                "version": "1.0.0"
+              },
+              "values": [
+                "neckline_7239",
+                "neckline_7242",
+                "neckline_7247",
+                "neckline_7244",
+                "neckline_7249",
+                "neckline_7246",
+                "neckline_7248",
+                "neckline_7245",
+                "neckline_7250",
+                "neckline_7241",
+                "neckline_7240",
+                "neckline_7243"
+              ]
+            },
+            {
+              "type": {
+                "label": "washing_instructions",
+                "version": "1.0.0"
+              },
+              "values": [
+                "washing_instructions_8365",
+                "washing_instructions_4108",
+                "washing_instructions_7106",
+                "washing_instructions_4103",
+                "washing_instructions_6998",
+                "washing_instructions_7000",
+                "washing_instructions_4102",
+                "washing_instructions_4111",
+                "washing_instructions_4109",
+                "washing_instructions_7001",
+                "washing_instructions_6999",
+                "washing_instructions_4110",
+                "washing_instructions_8364",
+                "washing_instructions_4106",
+                "washing_instructions_6997",
+                "washing_instructions_4107"
+              ]
+            }
+          ]
+        },
+        "simple": {
+          "optional_types": [
+            "metric.length",
+            "metric.model_height",
+            "metric.sleeve_length"
+          ],
+          "mandatory_types": ["size_codes", "ean"],
+          "restricted_attributes": []
+        }
+      },
+      "current_version": "4"
+    },
+    {
+      "name": {
+        "de": "Schlafoberteile",
+        "en": "Night shirt"
+      },
+      "label": "night_shirt",
+      "tiers": {
+        "model": {
+          "optional_types": [],
+          "mandatory_types": [
+            "name",
+            "brand_code",
+            "size_group",
+            "target_age_groups",
+            "target_genders"
+          ],
+          "restricted_attributes": []
+        },
+        "config": {
+          "optional_types": [
+            "washing_instructions",
+            "neckline",
+            "clothing_length",
+            "sleeve_length_option",
+            "occasion",
+            "pattern",
+            "shirt_collar_type",
+            "color_code.secondary",
+            "color_code.tertiary",
+            "number_of_articles_in_multipack",
+            "certificate",
+            "shape",
+            "fit_taxonomy",
+            "condition",
+            "pockets"
+          ],
+          "mandatory_types": [
+            "season_code",
+            "color_code.primary",
+            "description",
+            "material.upper_material_clothing",
+            "media",
+            "supplier_color"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "pattern",
+                "version": "1.0.0"
+              },
+              "values": [
+                "pattern_4316",
+                "pattern_7276",
+                "pattern_4315",
+                "pattern_7281",
+                "pattern_7275",
+                "pattern_7280",
+                "pattern_7279",
+                "pattern_7277",
+                "pattern_4314",
+                "pattern_7282",
+                "pattern_4313",
+                "pattern_4311",
+                "pattern_7278",
+                "pattern_5322",
+                "pattern_4310",
+                "pattern_4312"
+              ]
+            },
+            {
+              "type": {
+                "label": "condition",
+                "version": "1"
+              },
+              "values": ["condition_8531", "condition_8532"]
+            },
+            {
+              "type": {
+                "label": "pockets",
+                "version": "1"
+              },
+              "values": ["pockets_15", "pockets_14"]
+            },
+            {
+              "type": {
+                "label": "shape",
+                "version": "1"
+              },
+              "values": ["shape_8513", "shape_8511", "shape_8509"]
+            },
+            {
+              "type": {
+                "label": "clothing_length",
+                "version": "1.0.0"
+              },
+              "values": [
+                "clothing_length_153",
+                "clothing_length_7270",
+                "clothing_length_7272",
+                "clothing_length_152",
+                "clothing_length_151",
+                "clothing_length_7271"
+              ]
+            },
+            {
+              "type": {
+                "label": "sleeve_length_option",
+                "version": "1.0.0"
+              },
+              "values": [
+                "sleeve_length_option_4270",
+                "sleeve_length_option_4269",
+                "sleeve_length_option_4265",
+                "sleeve_length_option_4267",
+                "sleeve_length_option_7266",
+                "sleeve_length_option_4268",
+                "sleeve_length_option_4266",
+                "sleeve_length_option_7265",
+                "sleeve_length_option_4271"
+              ]
+            },
+            {
+              "type": {
+                "label": "fit_taxonomy",
+                "version": "1"
+              },
+              "values": [
+                "fit_taxonomy_8521",
+                "fit_taxonomy_8519",
+                "fit_taxonomy_8522",
+                "fit_taxonomy_8518",
+                "fit_taxonomy_8520"
+              ]
+            },
+            {
+              "type": {
+                "label": "shirt_collar_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "shirt_collar_type_7301",
+                "shirt_collar_type_4304",
+                "shirt_collar_type_7305",
+                "shirt_collar_type_7306",
+                "shirt_collar_type_4301",
+                "shirt_collar_type_4299",
+                "shirt_collar_type_7310",
+                "shirt_collar_type_7297",
+                "shirt_collar_type_4298",
+                "shirt_collar_type_7302",
+                "shirt_collar_type_4333",
+                "shirt_collar_type_7309",
+                "shirt_collar_type_4297",
+                "shirt_collar_type_4300"
+              ]
+            },
+            {
+              "type": {
+                "label": "occasion",
+                "version": "1.0.0"
+              },
+              "values": [
+                "occasion_7869",
+                "occasion_7230",
+                "occasion_7229",
+                "occasion_7232"
+              ]
+            },
+            {
+              "type": {
+                "label": "neckline",
+                "version": "1.0.0"
+              },
+              "values": [
+                "neckline_7239",
+                "neckline_7242",
+                "neckline_7247",
+                "neckline_7244",
+                "neckline_7249",
+                "neckline_7246",
+                "neckline_7248",
+                "neckline_7245",
+                "neckline_7250",
+                "neckline_7241",
+                "neckline_7240",
+                "neckline_7243"
+              ]
+            },
+            {
+              "type": {
+                "label": "washing_instructions",
+                "version": "1.0.0"
+              },
+              "values": [
+                "washing_instructions_8365",
+                "washing_instructions_4108",
+                "washing_instructions_7106",
+                "washing_instructions_4103",
+                "washing_instructions_6998",
+                "washing_instructions_7000",
+                "washing_instructions_4102",
+                "washing_instructions_4111",
+                "washing_instructions_4109",
+                "washing_instructions_7001",
+                "washing_instructions_6999",
+                "washing_instructions_4110",
+                "washing_instructions_8364",
+                "washing_instructions_4106",
+                "washing_instructions_6997",
+                "washing_instructions_4107"
+              ]
+            }
+          ]
+        },
+        "simple": {
+          "optional_types": [],
+          "mandatory_types": ["size_codes", "ean"],
+          "restricted_attributes": []
+        }
+      },
+      "current_version": "4"
+    },
+    {
+      "name": {
+        "de": "Schlafhosen",
+        "en": "Night trouser"
+      },
+      "label": "night_trouser",
+      "tiers": {
+        "model": {
+          "optional_types": ["assortment_type"],
+          "mandatory_types": [
+            "name",
+            "brand_code",
+            "size_group",
+            "target_age_groups",
+            "target_genders"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "assortment_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "assortment_type_7314",
+                "assortment_type_7311",
+                "assortment_type_7313",
+                "assortment_type_7312"
+              ]
+            }
+          ]
+        },
+        "config": {
+          "optional_types": [
+            "washing_instructions",
+            "non_textile_but_animal_parts",
+            "clothing_length",
+            "occasion",
+            "pattern",
+            "color_code.secondary",
+            "color_code.tertiary",
+            "number_of_articles_in_multipack",
+            "certificate",
+            "shape",
+            "fit_taxonomy",
+            "condition",
+            "pockets"
+          ],
+          "mandatory_types": [
+            "season_code",
+            "color_code.primary",
+            "description",
+            "material.upper_material_clothing",
+            "media",
+            "supplier_color"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "pattern",
+                "version": "1.0.0"
+              },
+              "values": [
+                "pattern_4316",
+                "pattern_7276",
+                "pattern_4315",
+                "pattern_7281",
+                "pattern_7275",
+                "pattern_7280",
+                "pattern_7279",
+                "pattern_7277",
+                "pattern_4314",
+                "pattern_7282",
+                "pattern_4313",
+                "pattern_4311",
+                "pattern_7278",
+                "pattern_5322",
+                "pattern_4310",
+                "pattern_4312"
+              ]
+            },
+            {
+              "type": {
+                "label": "condition",
+                "version": "1"
+              },
+              "values": ["condition_8531", "condition_8532"]
+            },
+            {
+              "type": {
+                "label": "pockets",
+                "version": "1"
+              },
+              "values": [
+                "pockets_03",
+                "pockets_04",
+                "pockets_02",
+                "pockets_01",
+                "pockets_11"
+              ]
+            },
+            {
+              "type": {
+                "label": "shape",
+                "version": "1"
+              },
+              "values": [
+                "shape_8514",
+                "shape_8513",
+                "shape_8511",
+                "shape_8510",
+                "shape_8509"
+              ]
+            },
+            {
+              "type": {
+                "label": "clothing_length",
+                "version": "1.0.0"
+              },
+              "values": [
+                "clothing_length_153",
+                "clothing_length_7706",
+                "clothing_length_7268",
+                "clothing_length_7270",
+                "clothing_length_7272",
+                "clothing_length_152",
+                "clothing_length_151",
+                "clothing_length_7274",
+                "clothing_length_7269",
+                "clothing_length_7267"
+              ]
+            },
+            {
+              "type": {
+                "label": "fit_taxonomy",
+                "version": "1"
+              },
+              "values": [
+                "fit_taxonomy_8521",
+                "fit_taxonomy_8522",
+                "fit_taxonomy_8524",
+                "fit_taxonomy_8520"
+              ]
+            },
+            {
+              "type": {
+                "label": "non_textile_but_animal_parts",
+                "version": "1.0.0"
+              },
+              "values": [
+                "non_textile_but_animal_parts_6966",
+                "non_textile_but_animal_parts_6967"
+              ]
+            },
+            {
+              "type": {
+                "label": "occasion",
+                "version": "1.0.0"
+              },
+              "values": ["occasion_7869", "occasion_7229", "occasion_7232"]
+            },
+            {
+              "type": {
+                "label": "washing_instructions",
+                "version": "1.0.0"
+              },
+              "values": [
+                "washing_instructions_8365",
+                "washing_instructions_4108",
+                "washing_instructions_7106",
+                "washing_instructions_4103",
+                "washing_instructions_6998",
+                "washing_instructions_7000",
+                "washing_instructions_4102",
+                "washing_instructions_4111",
+                "washing_instructions_4109",
+                "washing_instructions_7001",
+                "washing_instructions_6999",
+                "washing_instructions_4110",
+                "washing_instructions_8364",
+                "washing_instructions_4106",
+                "washing_instructions_6997",
+                "washing_instructions_4107"
+              ]
+            }
+          ]
+        },
+        "simple": {
+          "optional_types": ["metric.sleeve_length"],
+          "mandatory_types": ["size_codes", "ean"],
+          "restricted_attributes": []
+        }
+      },
+      "current_version": "5"
+    },
+    {
+      "name": {
+        "de": "Einteiler Nachtwäsche",
+        "en": "One-piece nightwear"
+      },
+      "label": "one_piece_nightwear",
+      "tiers": {
+        "model": {
+          "optional_types": ["assortment_type"],
+          "mandatory_types": [
+            "name",
+            "brand_code",
+            "size_group",
+            "target_age_groups",
+            "target_genders"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "assortment_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "assortment_type_7314",
+                "assortment_type_7311",
+                "assortment_type_7313",
+                "assortment_type_7841",
+                "assortment_type_7312"
+              ]
+            }
+          ]
+        },
+        "config": {
+          "optional_types": [
+            "washing_instructions",
+            "clothing_length",
+            "sleeve_length_option",
+            "padding_type",
+            "material_construction",
+            "occasion",
+            "color_code.secondary",
+            "color_code.tertiary",
+            "material.futter_clothing",
+            "number_of_articles_in_multipack",
+            "certificate",
+            "shape",
+            "fit_taxonomy",
+            "condition",
+            "pockets"
+          ],
+          "mandatory_types": [
+            "season_code",
+            "color_code.primary",
+            "description",
+            "material.upper_material_clothing",
+            "media",
+            "supplier_color"
+          ],
+          "validation_hints": {
+            "material.futter_clothing": {
+              "hint_type": "mandatory_if_applicable",
+              "description": {
+                "en": "Please specify the material composition if the product has lining."
+              },
+              "related_types": []
+            }
+          },
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "condition",
+                "version": "1"
+              },
+              "values": ["condition_8531", "condition_8532"]
+            },
+            {
+              "type": {
+                "label": "material_construction",
+                "version": "1.0.0"
+              },
+              "values": [
+                "material_construction_7215",
+                "material_construction_8196",
+                "material_construction_8194",
+                "material_construction_7221",
+                "material_construction_7219",
+                "material_construction_8191",
+                "material_construction_7222",
+                "material_construction_8193",
+                "material_construction_8192",
+                "material_construction_8197",
+                "material_construction_7218",
+                "material_construction_7225",
+                "material_construction_8198",
+                "material_construction_7216",
+                "material_construction_7213",
+                "material_construction_7217",
+                "material_construction_7220",
+                "material_construction_7214",
+                "material_construction_7224",
+                "material_construction_7226"
+              ]
+            },
+            {
+              "type": {
+                "label": "pockets",
+                "version": "1"
+              },
+              "values": [
+                "pockets_07",
+                "pockets_15",
+                "pockets_14",
+                "pockets_03",
+                "pockets_06",
+                "pockets_04",
+                "pockets_05",
+                "pockets_02",
+                "pockets_01",
+                "pockets_13"
+              ]
+            },
+            {
+              "type": {
+                "label": "padding_type",
+                "version": "1.0.0"
+              },
+              "values": ["padding_type_7236", "padding_type_7237"]
+            },
+            {
+              "type": {
+                "label": "shape",
+                "version": "1"
+              },
+              "values": ["shape_8511", "shape_8509"]
+            },
+            {
+              "type": {
+                "label": "clothing_length",
+                "version": "1.0.0"
+              },
+              "values": [
+                "clothing_length_153",
+                "clothing_length_7706",
+                "clothing_length_7268",
+                "clothing_length_7270",
+                "clothing_length_7272",
+                "clothing_length_152",
+                "clothing_length_151",
+                "clothing_length_7269",
+                "clothing_length_7273",
+                "clothing_length_7267"
+              ]
+            },
+            {
+              "type": {
+                "label": "sleeve_length_option",
+                "version": "1.0.0"
+              },
+              "values": [
+                "sleeve_length_option_4270",
+                "sleeve_length_option_4269",
+                "sleeve_length_option_4265",
+                "sleeve_length_option_4267",
+                "sleeve_length_option_7266",
+                "sleeve_length_option_4268",
+                "sleeve_length_option_4266",
+                "sleeve_length_option_7265",
+                "sleeve_length_option_4271"
+              ]
+            },
+            {
+              "type": {
+                "label": "fit_taxonomy",
+                "version": "1"
+              },
+              "values": [
+                "fit_taxonomy_8521",
+                "fit_taxonomy_8519",
+                "fit_taxonomy_8522",
+                "fit_taxonomy_8518"
+              ]
+            },
+            {
+              "type": {
+                "label": "occasion",
+                "version": "1.0.0"
+              },
+              "values": [
+                "occasion_7869",
+                "occasion_7228",
+                "occasion_7229",
+                "occasion_7232"
+              ]
+            },
+            {
+              "type": {
+                "label": "washing_instructions",
+                "version": "1.0.0"
+              },
+              "values": [
+                "washing_instructions_8365",
+                "washing_instructions_4108",
+                "washing_instructions_7106",
+                "washing_instructions_4103",
+                "washing_instructions_6998",
+                "washing_instructions_7000",
+                "washing_instructions_4102",
+                "washing_instructions_4111",
+                "washing_instructions_4109",
+                "washing_instructions_7001",
+                "washing_instructions_6999",
+                "washing_instructions_4110",
+                "washing_instructions_8364",
+                "washing_instructions_4106",
+                "washing_instructions_6997",
+                "washing_instructions_4107"
+              ]
+            }
+          ]
+        },
+        "simple": {
+          "optional_types": ["metric.model_height", "metric.sleeve_length"],
+          "mandatory_types": ["size_codes", "ean"],
+          "restricted_attributes": []
+        }
+      },
+      "current_version": "4"
+    },
+    {
+      "name": {
+        "de": "Mehrteiler Nachtwäsche",
+        "en": "Nightwear combination"
+      },
+      "label": "nightwear_combination",
+      "tiers": {
+        "model": {
+          "optional_types": ["assortment_type"],
+          "mandatory_types": [
+            "name",
+            "brand_code",
+            "size_group",
+            "target_age_groups",
+            "target_genders"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "assortment_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "assortment_type_7314",
+                "assortment_type_7311",
+                "assortment_type_7313",
+                "assortment_type_7841",
+                "assortment_type_7312"
+              ]
+            }
+          ]
+        },
+        "config": {
+          "optional_types": [
+            "size_fits",
+            "fabric_definition",
+            "washing_instructions",
+            "neckline",
+            "non_textile_but_animal_parts",
+            "clothing_length",
+            "sleeve_length_option",
+            "trouser_rise",
+            "occasion",
+            "shirt_collar_type",
+            "color_code.secondary",
+            "color_code.tertiary",
+            "material.upper_material_bottom",
+            "material.upper_material_top",
+            "number_of_articles_in_multipack",
+            "certificate",
+            "shape",
+            "fit_taxonomy",
+            "condition",
+            "pockets"
+          ],
+          "mandatory_types": [
+            "season_code",
+            "color_code.primary",
+            "description",
+            "material.upper_material_clothing",
+            "media",
+            "supplier_color"
+          ],
+          "validation_hints": {
+            "material.upper_material_top": {
+              "hint_type": "mandatory_if_applicable",
+              "description": {
+                "en": "Please specify the top part material composition if the material differs from the outer fabric material."
+              },
+              "related_types": []
+            },
+            "material.upper_material_bottom": {
+              "hint_type": "mandatory_if_applicable",
+              "description": {
+                "en": "Please specify the bottom part material composition if the material differs from the outer fabric material."
+              },
+              "related_types": []
+            }
+          },
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "condition",
+                "version": "1"
+              },
+              "values": ["condition_8531", "condition_8532"]
+            },
+            {
+              "type": {
+                "label": "fabric_definition",
+                "version": "1.0.0"
+              },
+              "values": ["fabric_definition_7202", "fabric_definition_7201"]
+            },
+            {
+              "type": {
+                "label": "pockets",
+                "version": "1"
+              },
+              "values": [
+                "pockets_15",
+                "pockets_14",
+                "pockets_09",
+                "pockets_03",
+                "pockets_04",
+                "pockets_08",
+                "pockets_02",
+                "pockets_01",
+                "pockets_13"
+              ]
+            },
+            {
+              "type": {
+                "label": "shape",
+                "version": "1"
+              },
+              "values": ["shape_8513", "shape_8511", "shape_8510", "shape_8509"]
+            },
+            {
+              "type": {
+                "label": "clothing_length",
+                "version": "1.0.0"
+              },
+              "values": [
+                "clothing_length_153",
+                "clothing_length_7268",
+                "clothing_length_7272",
+                "clothing_length_152",
+                "clothing_length_151"
+              ]
+            },
+            {
+              "type": {
+                "label": "sleeve_length_option",
+                "version": "1.0.0"
+              },
+              "values": [
+                "sleeve_length_option_4270",
+                "sleeve_length_option_4269",
+                "sleeve_length_option_4265",
+                "sleeve_length_option_4267",
+                "sleeve_length_option_7266",
+                "sleeve_length_option_4268",
+                "sleeve_length_option_4266",
+                "sleeve_length_option_7265",
+                "sleeve_length_option_4271"
+              ]
+            },
+            {
+              "type": {
+                "label": "fit_taxonomy",
+                "version": "1"
+              },
+              "values": [
+                "fit_taxonomy_8521",
+                "fit_taxonomy_8519",
+                "fit_taxonomy_8522",
+                "fit_taxonomy_8518",
+                "fit_taxonomy_8520"
+              ]
+            },
+            {
+              "type": {
+                "label": "non_textile_but_animal_parts",
+                "version": "1.0.0"
+              },
+              "values": [
+                "non_textile_but_animal_parts_6966",
+                "non_textile_but_animal_parts_6967"
+              ]
+            },
+            {
+              "type": {
+                "label": "shirt_collar_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "shirt_collar_type_7301",
+                "shirt_collar_type_4304",
+                "shirt_collar_type_7305",
+                "shirt_collar_type_7306",
+                "shirt_collar_type_4301",
+                "shirt_collar_type_4299",
+                "shirt_collar_type_7308",
+                "shirt_collar_type_4332",
+                "shirt_collar_type_7310",
+                "shirt_collar_type_7307",
+                "shirt_collar_type_7297",
+                "shirt_collar_type_4298",
+                "shirt_collar_type_7304",
+                "shirt_collar_type_7299",
+                "shirt_collar_type_7302",
+                "shirt_collar_type_7298",
+                "shirt_collar_type_7303",
+                "shirt_collar_type_4333",
+                "shirt_collar_type_7300",
+                "shirt_collar_type_7309",
+                "shirt_collar_type_4297",
+                "shirt_collar_type_4300"
+              ]
+            },
+            {
+              "type": {
+                "label": "trouser_rise",
+                "version": "1.0.0"
+              },
+              "values": [
+                "trouser_rise_155",
+                "trouser_rise_156",
+                "trouser_rise_154"
+              ]
+            },
+            {
+              "type": {
+                "label": "size_fits",
+                "version": "1.0.0"
+              },
+              "values": ["size_fits_150", "size_fits_149"]
+            },
+            {
+              "type": {
+                "label": "occasion",
+                "version": "1.0.0"
+              },
+              "values": [
+                "occasion_7869",
+                "occasion_7228",
+                "occasion_7229",
+                "occasion_7232"
+              ]
+            },
+            {
+              "type": {
+                "label": "neckline",
+                "version": "1.0.0"
+              },
+              "values": [
+                "neckline_7239",
+                "neckline_7242",
+                "neckline_7245",
+                "neckline_7250",
+                "neckline_7241",
+                "neckline_7240",
+                "neckline_7243"
+              ]
+            },
+            {
+              "type": {
+                "label": "washing_instructions",
+                "version": "1.0.0"
+              },
+              "values": [
+                "washing_instructions_8365",
+                "washing_instructions_4108",
+                "washing_instructions_7106",
+                "washing_instructions_4105",
+                "washing_instructions_4103",
+                "washing_instructions_6998",
+                "washing_instructions_7000",
+                "washing_instructions_4102",
+                "washing_instructions_4111",
+                "washing_instructions_4109",
+                "washing_instructions_7001",
+                "washing_instructions_6999",
+                "washing_instructions_4110",
+                "washing_instructions_8364",
+                "washing_instructions_4106",
+                "washing_instructions_6997",
+                "washing_instructions_4107"
+              ]
+            }
+          ]
+        },
+        "simple": {
+          "optional_types": [
+            "metric.inner_leg_length",
+            "metric.model_height",
+            "metric.outer_leg_length",
+            "metric.productmodel_length",
+            "metric.sleeve_length",
+            "metric.metric_jacket_length"
+          ],
+          "mandatory_types": ["size_codes", "ean"],
+          "restricted_attributes": []
+        }
+      },
+      "current_version": "5"
+    },
+    {
+      "name": {
+        "de": "Bademantel",
+        "en": "Bathrobe"
+      },
+      "label": "bathrobe",
+      "tiers": {
+        "model": {
+          "optional_types": ["assortment_type"],
+          "mandatory_types": [
+            "name",
+            "brand_code",
+            "size_group",
+            "target_age_groups",
+            "target_genders"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "assortment_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "assortment_type_7314",
+                "assortment_type_7311",
+                "assortment_type_7313",
+                "assortment_type_7312"
+              ]
+            }
+          ]
+        },
+        "config": {
+          "optional_types": [
+            "washing_instructions",
+            "home_basis_weight",
+            "non_textile_but_animal_parts",
+            "clothing_length",
+            "sleeve_length_option",
+            "occasion",
+            "pattern",
+            "shirt_collar_type",
+            "color_code.secondary",
+            "color_code.tertiary",
+            "number_of_articles_in_multipack",
+            "certificate",
+            "condition",
+            "pockets"
+          ],
+          "mandatory_types": [
+            "season_code",
+            "color_code.primary",
+            "description",
+            "material.upper_material_clothing",
+            "media",
+            "supplier_color"
+          ],
+          "restricted_attributes": [
+            {
+              "type": {
+                "label": "pattern",
+                "version": "1.0.0"
+              },
+              "values": [
+                "pattern_4316",
+                "pattern_7276",
+                "pattern_4315",
+                "pattern_7281",
+                "pattern_7275",
+                "pattern_7280",
+                "pattern_7279",
+                "pattern_7277",
+                "pattern_4314",
+                "pattern_7282",
+                "pattern_4313",
+                "pattern_4311",
+                "pattern_7278",
+                "pattern_5322",
+                "pattern_4310",
+                "pattern_4312"
+              ]
+            },
+            {
+              "type": {
+                "label": "condition",
+                "version": "1"
+              },
+              "values": ["condition_8531", "condition_8532"]
+            },
+            {
+              "type": {
+                "label": "home_basis_weight",
+                "version": "1.0.0"
+              },
+              "values": [
+                "home_basis_weight_5925",
+                "home_basis_weight_5923",
+                "home_basis_weight_5922"
+              ]
+            },
+            {
+              "type": {
+                "label": "pockets",
+                "version": "1"
+              },
+              "values": ["pockets_14", "pockets_13"]
+            },
+            {
+              "type": {
+                "label": "clothing_length",
+                "version": "1.0.0"
+              },
+              "values": [
+                "clothing_length_153",
+                "clothing_length_7706",
+                "clothing_length_7270",
+                "clothing_length_7272",
+                "clothing_length_152",
+                "clothing_length_151",
+                "clothing_length_7274",
+                "clothing_length_7273",
+                "clothing_length_7267"
+              ]
+            },
+            {
+              "type": {
+                "label": "sleeve_length_option",
+                "version": "1.0.0"
+              },
+              "values": [
+                "sleeve_length_option_4270",
+                "sleeve_length_option_4269",
+                "sleeve_length_option_4267",
+                "sleeve_length_option_7266",
+                "sleeve_length_option_4266",
+                "sleeve_length_option_7265",
+                "sleeve_length_option_4271"
+              ]
+            },
+            {
+              "type": {
+                "label": "non_textile_but_animal_parts",
+                "version": "1.0.0"
+              },
+              "values": [
+                "non_textile_but_animal_parts_6966",
+                "non_textile_but_animal_parts_6967"
+              ]
+            },
+            {
+              "type": {
+                "label": "shirt_collar_type",
+                "version": "1.0.0"
+              },
+              "values": [
+                "shirt_collar_type_4304",
+                "shirt_collar_type_4299",
+                "shirt_collar_type_7297",
+                "shirt_collar_type_4298",
+                "shirt_collar_type_4333",
+                "shirt_collar_type_7309",
+                "shirt_collar_type_4297"
+              ]
+            },
+            {
+              "type": {
+                "label": "occasion",
+                "version": "1.0.0"
+              },
+              "values": ["occasion_7869", "occasion_7229", "occasion_7232"]
+            },
+            {
+              "type": {
+                "label": "washing_instructions",
+                "version": "1.0.0"
+              },
+              "values": [
+                "washing_instructions_8365",
+                "washing_instructions_4108",
+                "washing_instructions_7106",
+                "washing_instructions_4103",
+                "washing_instructions_6998",
+                "washing_instructions_7000",
+                "washing_instructions_4102",
+                "washing_instructions_4111",
+                "washing_instructions_4109",
+                "washing_instructions_7001",
+                "washing_instructions_6999",
+                "washing_instructions_4110",
+                "washing_instructions_8364",
+                "washing_instructions_4106",
+                "washing_instructions_6997",
+                "washing_instructions_4107"
+              ]
+            }
+          ]
+        },
+        "simple": {
+          "optional_types": [
+            "metric.length",
+            "metric.productmodel_length",
+            "metric.sleeve_length"
+          ],
+          "mandatory_types": ["size_codes", "ean"],
+          "restricted_attributes": []
+        }
+      },
+      "current_version": "5"
+    }
+  ]
+}
